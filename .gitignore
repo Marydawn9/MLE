@@ -135,4 +135,4 @@ dmypy.json
 >>>>>>> dfff5f39a7d2bf0e4dccdaa59b97cb90ef66e195
 
 #secrets
-*.secrets.py
+*.secrets.py~
